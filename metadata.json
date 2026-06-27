@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Yovx",
+  "description": "A premium social ecosystem blending the immersive vertical video reels of TikTok, visual storytelling of Instagram, and community connections of Facebook — enhanced by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
